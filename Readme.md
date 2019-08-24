@@ -1,4 +1,4 @@
-# Matlab Toolbox for SEED reconstruction for SPEN MRI
+# Matlab Toolbox of SEED reconstruction for SPEN MRI
 
 Author: Lin Chen
 
