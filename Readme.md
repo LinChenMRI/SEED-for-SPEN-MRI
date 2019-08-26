@@ -15,9 +15,7 @@ You can download the paper at the following link:
 
 http://www.sciencedirect.com/science/article/pii/S1361841515000389
 
-If you use this code, please cite the following paper:
-
-[1] L. Chen, J. Li, M. Zhang, S.H. Cai, T. Zhang, C.B. Cai, Z. Chen, Super-resolved enhancing and edge deghosting (SEED) for spatiotemporally encoded single-shot MRI, Med. Image Anal., 23 (2015) 1-14.
+If you use this code, please cite the abovementioned paper.
 
 To use this toolbox, the following related toolbox is required:
 
