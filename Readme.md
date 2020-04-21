@@ -2,7 +2,7 @@
 
 Author: Lin Chen
 
-Email: chenlin@stu.xmu.edu.cn       chenlin0430@gmail.com
+Email: chenlin0430@163.com       chenlin0430@gmail.com
 
 Affiliations:
 Department of Electronic Science, Fujian Provincial Key Laboratory of Plasma and Magnetic Resonance, Xiamen University, Xiamen, China
